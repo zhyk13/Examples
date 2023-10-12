@@ -1,0 +1,15 @@
+F:\TMP1\Skan\1С-Разработчик\ВВедение в программирование\Знакомство с языками программирования\Examples\Exampl001_HelloConsole\bin\Debug\net6.0\Exampl001_HelloConsole.exe
+F:\TMP1\Skan\1С-Разработчик\ВВедение в программирование\Знакомство с языками программирования\Examples\Exampl001_HelloConsole\bin\Debug\net6.0\Exampl001_HelloConsole.deps.json
+F:\TMP1\Skan\1С-Разработчик\ВВедение в программирование\Знакомство с языками программирования\Examples\Exampl001_HelloConsole\bin\Debug\net6.0\Exampl001_HelloConsole.runtimeconfig.json
+F:\TMP1\Skan\1С-Разработчик\ВВедение в программирование\Знакомство с языками программирования\Examples\Exampl001_HelloConsole\bin\Debug\net6.0\Exampl001_HelloConsole.dll
+F:\TMP1\Skan\1С-Разработчик\ВВедение в программирование\Знакомство с языками программирования\Examples\Exampl001_HelloConsole\bin\Debug\net6.0\Exampl001_HelloConsole.pdb
+F:\TMP1\Skan\1С-Разработчик\ВВедение в программирование\Знакомство с языками программирования\Examples\Exampl001_HelloConsole\obj\Debug\net6.0\Exampl001_HelloConsole.csproj.AssemblyReference.cache
+F:\TMP1\Skan\1С-Разработчик\ВВедение в программирование\Знакомство с языками программирования\Examples\Exampl001_HelloConsole\obj\Debug\net6.0\Exampl001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+F:\TMP1\Skan\1С-Разработчик\ВВедение в программирование\Знакомство с языками программирования\Examples\Exampl001_HelloConsole\obj\Debug\net6.0\Exampl001_HelloConsole.AssemblyInfoInputs.cache
+F:\TMP1\Skan\1С-Разработчик\ВВедение в программирование\Знакомство с языками программирования\Examples\Exampl001_HelloConsole\obj\Debug\net6.0\Exampl001_HelloConsole.AssemblyInfo.cs
+F:\TMP1\Skan\1С-Разработчик\ВВедение в программирование\Знакомство с языками программирования\Examples\Exampl001_HelloConsole\obj\Debug\net6.0\Exampl001_HelloConsole.csproj.CoreCompileInputs.cache
+F:\TMP1\Skan\1С-Разработчик\ВВедение в программирование\Знакомство с языками программирования\Examples\Exampl001_HelloConsole\obj\Debug\net6.0\Exampl001_HelloConsole.dll
+F:\TMP1\Skan\1С-Разработчик\ВВедение в программирование\Знакомство с языками программирования\Examples\Exampl001_HelloConsole\obj\Debug\net6.0\refint\Exampl001_HelloConsole.dll
+F:\TMP1\Skan\1С-Разработчик\ВВедение в программирование\Знакомство с языками программирования\Examples\Exampl001_HelloConsole\obj\Debug\net6.0\Exampl001_HelloConsole.pdb
+F:\TMP1\Skan\1С-Разработчик\ВВедение в программирование\Знакомство с языками программирования\Examples\Exampl001_HelloConsole\obj\Debug\net6.0\Exampl001_HelloConsole.genruntimeconfig.cache
+F:\TMP1\Skan\1С-Разработчик\ВВедение в программирование\Знакомство с языками программирования\Examples\Exampl001_HelloConsole\obj\Debug\net6.0\ref\Exampl001_HelloConsole.dll
